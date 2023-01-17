@@ -10,6 +10,7 @@
     <title>Guide</title>
 </head>
 <body>
+    
     <?php include './header.html'; ?>
 </body>
 </html>
