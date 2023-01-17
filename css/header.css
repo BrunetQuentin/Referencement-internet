@@ -18,9 +18,54 @@
   flex-direction: row;
   justify-content: space-evenly;
   width: 100%;
-  margin: 3em 2em;
+  margin-top: 3em;
+  margin-bottom: 0;
+  padding: 0;
 }
 
-.navbar > .navbar-right > .navbar-nav > li > a {
+.navbar > .navbar-right > .navbar-nav > li {
+  display: block;
+  padding-bottom: 2px;
+}
+
+.navbar-nav > li > .hover {
+  padding-bottom: 1em;
   color: white;
+  display: block;
+}
+
+.navbar-nav > li > .hover:hover {
+  border-bottom: 2px solid white;
+}
+
+.btn {
+  border: 1px solid white;
+  color: white;
+  font-size: 12px;
+  letter-spacing: 3px;
+  padding: 10px 25px;
+  border-radius: 0;
+  transition: 0.5s;
+  text-decoration: none;
+}
+
+.no-text-decoration {
+  text-decoration: none;
+}
+.no-text-decoration:visited {
+  color: inherit;
+}
+
+.logo {
+  font-size: 5em;
+  font-family: Georgia, serif;
+}
+
+.logo-a {
+  display: flex;
+  flex-direction: row;
+}
+
+.colored {
+  color: deepskyblue;
 }
