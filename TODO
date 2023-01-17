@@ -8,13 +8,7 @@ NOTES
 
 On en est au TP 2
 
-	nom des pages : guide.php, freelance.php, mission.php
-
-	une page de référencement des fournisseurs (pour les freelance : "freelance.php")
-
-		CV Freelance
-
-		Il est important de savoir qu'à l'heure actuelle, la majorité des données sont stockées sous MySQL et Mongo.
+	"Il est important de savoir qu'à l'heure actuelle, la majorité des données sont stockées sous MySQL et Mongo."
 
 	une page de référencement des missions (pour les entreprises : "mission.php")
 
