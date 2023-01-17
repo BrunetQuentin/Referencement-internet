@@ -11,7 +11,7 @@
 </head>
 <body>
     <?php
-    $implementedPages = ['guide'];
+    $implementedPages = ['guide', 'mission', 'freelance', 'publier_cv', 'publier_mission'];
     // Include the requested html page
 
     // get the url path

@@ -6,7 +6,7 @@ NOTES
 
 On en est au TP 2
 
-	nom des pages : cv.php, guide.php, 
+	nom des pages : guide.php, freelance.php, mission.php
 
 	une page de référencement des fournisseurs (pour les freelance)
 
@@ -36,14 +36,14 @@ On en est au TP 2
 
 		Bienvenue sur notre site de référencement pour développeur freelance. Ici vous pouvez vous mettre en contact avec des entreprise ou des particulier et gratuitement ! Ce site fournit en effet gratuitement sont service, le site sert d'intermédiaire pour les transactions d'argent et les annonces pour freelance et entreprises. Vous pourrez également augmenter votre visibilité par des actions telles que :
 
-			- publier des annonces
+			- guide (fichier : "guide.php")
 
-			- publier des missions
+			- afficher les missions (fichier : "mission.php")
 
-			- mettre en avant son profil
+			- afficher les freelances (fichier : "freelance.php")
 
-			- louer des services
+			- publier son CV (fichier : "publier_cv.php")
 
-			- publier son CV
+			- publier sa mission (fichier : "publier_mission.php")
 
 			https://mobiskill.fr/entreprise/
