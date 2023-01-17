@@ -58,15 +58,19 @@
 		<h1>CV Freelance</h1>
 		<form action="" method="get">
 			<div>
-				<label for="name">Enter your name: </label>
-				<input type="text" name="name" id="name" required>
+				<label for="nom">Entrez votre nom: </label>
+				<input type="text" name="nom" required>
 			</div>
 			<div>
-				<label for="email">Enter your email: </label>
-				<input type="email" name="email" id="email" required>
+				<label for="prenom">Entrez votre prénom: </label>
+				<input type="text" name="prenom" required>
 			</div>
 			<div>
-				<input type="submit" value="Subscribe!">
+				<label for="email">Entrez votre email: </label>
+				<input type="email" name="email" required>
+			</div>
+			<div>
+				<input type="submit">
 			</div>
 		</form>
 	</main>
