@@ -8,21 +8,13 @@ On en est au TP 2
 
 	nom des pages : guide.php, freelance.php, mission.php
 
-	une page de référencement des fournisseurs (pour les freelance)
+	une page de référencement des fournisseurs (pour les freelance : "freelance.php")
 
 		CV Freelance
 
-		Sur cette page, en tant que développeur freelance, vous pourrez mettre à disposition votre CV pour que notre système de pub puisse vous mettre en relation avec des entreprises pour de potentiels emplois dans différents projets informatiques.
-
-		Exemple de languages : Java, NodeJs, Typescript, Flutter, React Natif, Angular, C++, JavaScript, Python, CSS, Html, Vue, Ruby, SQL, PHP, MongoDb, Django, Oracle, Test, Full Stack, C#, ReactJs, Perl et Kotlin.
-
-		Exemple de Mode de Développement : Agile, Semi-agile, Intégration Continue et SCRUM.
-
-		Toute les expériences sont acceptés, voici quelques exemples : Ingénieur, Bac +3, Master, Spécialiste, Bac +2, Junior, Senior.
-
 		Il est important de savoir qu'à l'heure actuelle, la majorité des données sont stockées sous MySQL et Mongo.
 
-	une page de référencement des missions (pour les entreprises)
+	une page de référencement des missions (pour les entreprises : "mission.php")
 
 		Annonces pour Freelance
 
@@ -31,6 +23,10 @@ On en est au TP 2
 		N'oubliez pas dans le cas d'un site Web de dire son CMS, la structure de son Back et du Front ou bien encore les mises en place SEO.
 
 		Il est important de définir le support du projet, par exemple si il est sous Android il ne seras probablement pas fait de la même manière que si il est sous iPhone à moins de faire du développement hybride, comme sa peut être le cas avec Windows, Apple et Linus.
+
+	une page pour publier son CV (pour les freelances : "publier_cv.php")
+
+	une page pour publier sa mission (pour les entreprises : "publier_mission.php")
 
 	une page guide du site
 
