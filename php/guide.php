@@ -1,16 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./css/guide.css">
-    <link rel="stylesheet" href="./css/header.css">
-    <link rel="stylesheet" href="./css/global.css">
-    <title>Guide</title>
-</head>
-<body>
-    
-    <?php include './header.html'; ?>
-</body>
-</html>
+
+<main>
+    <h1>Le guide complet pour utiliser <strong>AlpesFreelance</strong></h1>
+
+    <h2>Vous êtes un freelance:</h2>
+    <p>L'onglet "publier son cv" ainsi que "missions" sont fait pour vous !</p>
+    <p>En effet grace a ce site, il est possible trés facilement de créer votre CV et de le publier </p>
+</main>

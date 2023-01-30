@@ -7,6 +7,10 @@
   letter-spacing: 4px;
   opacity: 0.9;
   color: white;
+
+  position: sticky;
+  top: 0;
+  width: 100%;
 }
 
 .navbar > .navbar-right {
