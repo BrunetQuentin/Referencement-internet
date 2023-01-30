@@ -6,28 +6,44 @@ NOTES
 
 	Nom du site : AlpesFreelance
 
-On en est au TP 2
+TODO
 
-	"Il est important de savoir qu'à l'heure actuelle, la majorité des données sont stockées sous MySQL et Mongo."
+	Rajouter un onglet dans le fichier Excel pour y inclure vos KPI
 
-	une page de référencement des missions (pour les entreprises : "mission.php")
+	Mettre tous vos fichiers dans un .zip
 
-	une page pour publier son CV (pour les freelances : "publier_cv.php")
+		HTML, JS, JSON, img, robots.txt, Sitemap(s), Fichier Excel (mots-clés : 5 catégories + onglet concurrence)
 
-	une page pour publier sa mission (pour les entreprises : "publier_mission.php")
+	Nommer le zip juste par votre numéro de binôme
 
-	une page guide du site
+	Conseil :
 
-		Bienvenue sur notre site de référencement pour développeur freelance. Ici vous pouvez vous mettre en contact avec des entreprise ou des particulier et gratuitement ! Ce site fournit en effet gratuitement sont service, le site sert d'intermédiaire pour les transactions d'argent et les annonces pour freelance et entreprises. Vous pourrez également augmenter votre visibilité par des actions telles que :
+		Ne pas oublier de référencer vos images via le(s) Sitemap
 
-			- guide (fichier : "guide.php")
+		Modifier l'URL si vous faites du JS/AJAX
 
-			- afficher les missions (fichier : "mission.php")
+	On en est au TP 2
 
-			- afficher les freelances (fichier : "freelance.php")
+		"Il est important de savoir qu'à l'heure actuelle, la majorité des données sont stockées sous MySQL et Mongo."
 
-			- publier son CV (fichier : "publier_cv.php")
+		une page de référencement des missions (pour les entreprises : "mission.php")
 
-			- publier sa mission (fichier : "publier_mission.php")
+		une page pour publier son CV (pour les freelances : "publier_cv.php")
 
-			https://mobiskill.fr/entreprise/
+		une page pour publier sa mission (pour les entreprises : "publier_mission.php")
+
+		une page guide du site
+
+			Bienvenue sur notre site de référencement pour développeur freelance. Ici vous pouvez vous mettre en contact avec des entreprise ou des particulier et gratuitement ! Ce site fournit en effet gratuitement sont service, le site sert d'intermédiaire pour les transactions d'argent et les annonces pour freelance et entreprises. Vous pourrez également augmenter votre visibilité par des actions telles que :
+
+				- guide (fichier : "guide.php")
+
+				- afficher les missions (fichier : "mission.php")
+
+				- afficher les freelances (fichier : "freelance.php")
+
+				- publier son CV (fichier : "publier_cv.php")
+
+				- publier sa mission (fichier : "publier_mission.php")
+
+				https://mobiskill.fr/entreprise/
