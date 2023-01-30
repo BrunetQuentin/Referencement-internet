@@ -6,28 +6,26 @@ NOTES
 
 	Nom du site : AlpesFreelance
 
-On en est au TP 2
+	https://mobiskill.fr/entreprise/
 
-	"Il est important de savoir qu'à l'heure actuelle, la majorité des données sont stockées sous MySQL et Mongo."
+TODO
 
-	une page de référencement des missions (pour les entreprises : "mission.php")
+	Rajouter un onglet dans le fichier Excel pour y inclure vos KPI
 
-	une page pour publier son CV (pour les freelances : "publier_cv.php")
+	Mettre tous vos fichiers dans un .zip
 
-	une page pour publier sa mission (pour les entreprises : "publier_mission.php")
+		HTML, JS, JSON, img, robots.txt, Sitemap(s), Fichier Excel (mots-clés : 5 catégories + onglet concurrence)
 
-	une page guide du site
+	Nommer le zip juste par votre numéro de binôme
 
-		Bienvenue sur notre site de référencement pour développeur freelance. Ici vous pouvez vous mettre en contact avec des entreprise ou des particulier et gratuitement ! Ce site fournit en effet gratuitement sont service, le site sert d'intermédiaire pour les transactions d'argent et les annonces pour freelance et entreprises. Vous pourrez également augmenter votre visibilité par des actions telles que :
+	Conseil :
 
-			- guide (fichier : "guide.php")
+		Ne pas oublier de référencer vos images via le(s) Sitemap
 
-			- afficher les missions (fichier : "mission.php")
+		Modifier l'URL si vous faites du JS/AJAX
 
-			- afficher les freelances (fichier : "freelance.php")
+	On en est au TP 2
 
-			- publier son CV (fichier : "publier_cv.php")
+		une page guide du site
 
-			- publier sa mission (fichier : "publier_mission.php")
-
-			https://mobiskill.fr/entreprise/
+			Bienvenue sur notre site de référencement pour développeur freelance. Ici vous pouvez vous mettre en contact avec des entreprise ou des particulier et gratuitement ! Ce site fournit en effet gratuitement sont service, le site sert d'intermédiaire pour les transactions d'argent et les annonces pour freelance et entreprises. Vous pourrez également augmenter votre visibilité par des actions telles que : [TODO : insérer une liste de liens]

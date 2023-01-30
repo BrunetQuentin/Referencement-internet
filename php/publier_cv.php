@@ -30,6 +30,7 @@
 		<li>Perl</li>
 		<li>Kotlin</li>
 	</ul>
+	<i>Il est important de savoir qu'à l'heure actuelle, la majorité des données sont stockées sous MySQL et Mongo.</i>
 
 	<p>Exemple de Mode de Développement :</p>
 	<ul>
