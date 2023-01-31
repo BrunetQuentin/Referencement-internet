@@ -10,13 +10,25 @@ NOTES
 
 TODO
 
-	Rajouter un onglet dans le fichier Excel pour y inclure vos KPI
+	intégrer le code JS pour Google Analytics
 
-	Mettre tous vos fichiers dans un .zip
+	Rajouter un onglet dans le fichier Excel pour y inclure vos KPI : EN COURS
+
+		faire une page confirm.php qui redirige vers la page d'acceuil pour qu'on soit sûr que le visiteur ait confirmer une publication : EN COURS
+
+		NOTES
+
+			Le nombre de visiteurs qui vont de guide.php à publier_cv.php
+
+			Le nombre de visiteurs qui vont de guide.php à publier_mission.php
+
+	faire un Sitemap : EN COURS
+
+	Mettre tous vos fichiers dans un .zip : EN ATTENTE
 
 		HTML, JS, JSON, img, robots.txt, Sitemap(s), Fichier Excel (mots-clés : 5 catégories + onglet concurrence)
 
-	Nommer le zip juste par votre numéro de binôme
+		Nommer le zip juste par votre numéro de binôme
 
 	Conseil :
 

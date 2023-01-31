@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /header.html
+Disallow: /index.php
+Disallow: /css/

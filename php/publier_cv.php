@@ -1,3 +1,7 @@
+<?php
+$host     = $_SERVER['HTTP_HOST'];
+$redirect = "http://$host/php/confirm.php?redirect=cv";
+?>
 
 <main>
 	<h1>Publiez votre <strong>CV</strong></h1>
@@ -66,7 +70,7 @@
 			<input type="email" name="email" required>
 		</div>
 		<div>
-			<input type="submit">
+			<input onclick="window.location.href = '<?=$redirect?>'" type="submit">
 		</div>
 	</form>
 </main>
