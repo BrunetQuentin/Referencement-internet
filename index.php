@@ -49,7 +49,6 @@ elseif (!in_array($path, array_keys($implementedPages), true)) {
     <link rel="stylesheet" href="./css/global.css">
 	<meta name="description" content=<?= $implementedPages[$path]['description'] ??
      'Aucune description' ?>>
-     <base href="http://www-etu-info.iut2.upmf-grenoble.fr/~brunetqu/seo/"/>
     <title><?= $implementedPages[$path]['titre'] ?? "Page d'erreur" ?></title>
 </head>
 <body>
