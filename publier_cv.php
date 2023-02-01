@@ -80,7 +80,7 @@ $redirect = "http://$host/php/confirm.php?redirect=cv";
 				</div>
 			</form>
 		</div>
-		<img src="img/cv.jpg" alt="cv" >
+		<img src="images/cv.jpg" alt="cv" >
 	</main>
 </body>
 </html>

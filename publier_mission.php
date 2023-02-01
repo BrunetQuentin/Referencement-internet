@@ -47,7 +47,7 @@ $redirect = "http://$host/php/confirm.php?redirect=mission";
 				</div>
 			</form>
 		</div>
-		<img src="img/mission.jpg" alt="mission freelance" >
+		<img src="images/mission.jpg" alt="mission freelance" >
 	</main>
 </body>
 </html>
