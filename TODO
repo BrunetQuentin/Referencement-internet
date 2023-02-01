@@ -12,7 +12,14 @@ TODO
 
 	intégrer le code JS pour Google Analytics
 
-	faire un Sitemap : EN COURS
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-W2BZF6HKBQ"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-W2BZF6HKBQ');
+		</script>
 
 	Mettre tous vos fichiers dans un .zip : EN ATTENTE
 
