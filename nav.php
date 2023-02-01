@@ -1,6 +1,6 @@
 <nav class="navbar">
 	<div class="navbar-header">
-		<a class="no-text-decoration logo-a" href="/">
+		<a class="no-text-decoration logo-a" href="index.php">
 			<span class="logo colored">A</span>
 			<span class="logo">lpesFreelance</span>
 		</a>
@@ -34,9 +34,6 @@
 					<br />
 					<span></span>
 				</a>
-			</li>
-			<li>
-				<a class="btn" href="">Nous rejoindre</a>
 			</li>
 			<li>
 				<a class="btn" href="guide.php"> Notre guide </a>
