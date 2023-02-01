@@ -1,3 +1,3 @@
 <?php
-header('Location: /guide');
+header('Location: guide.php');
 die();

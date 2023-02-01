@@ -3,11 +3,11 @@ $host     = $_SERVER['HTTP_HOST'];
 $redirect = "http://$host/php/confirm.php?redirect=mission";
 ?>
 
-<?php include '../infodoc.php' ?>
+<?php include 'infodoc.php' ?>
 <html lang="fr">
-<?php include '../head.php' ?>
+<?php include 'head.php' ?>
 <body>
-	<?php include '../nav.php' ?>
+	<?php include 'nav.php' ?>
 	<main>
 		<h1>Publier toutes vos <strong>missions</strong> sur cette page</h1>
 

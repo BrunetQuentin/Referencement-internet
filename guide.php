@@ -1,8 +1,8 @@
-<?php include '../infodoc.php' ?>
+<?php include 'infodoc.php' ?>
 <html lang="fr">
-<?php include '../head.php' ?>
+<?php include 'head.php' ?>
 <body>
-	<?php include '../nav.php' ?>
+	<?php include 'nav.php' ?>
     <main>
         <h1>Le guide complet pour utiliser <strong>AlpesFreelance</strong></h1>
         <p>Bienvenue sur notre site de référencement pour développeur freelance. 

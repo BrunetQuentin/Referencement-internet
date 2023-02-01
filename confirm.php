@@ -8,13 +8,13 @@ $host     = $_SERVER['HTTP_HOST'];
 if ($redirect != null) {
 	switch ($page) {
 		case 'cv':
-			$page = 'freelance';
+			$page = 'freelance.php';
 		break;
 		case 'mission':
-			$page = 'mission';
+			$page = 'mission.php';
 		break;
 		default:
-			$page = 'guide';
+			$page = 'guide.php';
 		break;
 	}
 	header("Location: http://$host/$page");

@@ -3,11 +3,11 @@ $host     = $_SERVER['HTTP_HOST'];
 $redirect = "http://$host/php/confirm.php?redirect=cv";
 ?>
 
-<?php include '../infodoc.php' ?>
+<?php include 'infodoc.php' ?>
 <html lang="fr">
-<?php include '../head.php' ?>
+<?php include 'head.php' ?>
 <body>
-	<?php include '../nav.php' ?>
+	<?php include 'nav.php' ?>
 	<main>
 		<h1>Publiez votre <strong>CV</strong></h1>
 		Sur cette page, en tant que <strong>développeur freelance</strong>, vous pourrez <strong>publier votre CV</strong> pour que notre système de pub puisse vous <strong>mettre en relation avec des entreprises</strong> pour de potentiels emplois dans différents projets informatiques.
