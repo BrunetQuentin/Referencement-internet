@@ -1,22 +1,22 @@
 <?php
 $implementedPages = [
-    'guide' => [
+    'guide.php' => [
         'titre' => 'Guide de relation entre freelance et entreprise',
         'description' => 'Comment commencer un projet informatique',
     ],
-    'mission' => [
+    'mission.php' => [
         'titre' => 'Missions',
         'description' => 'Obtenir des missions en tant que freelance',
     ],
-    'freelance' => [
+    'freelance.php' => [
         'titre' => 'Freelance',
         'description' => 'Recruter pour des missions',
     ],
-    'publier_cv' => [
+    'publier_cv.php' => [
         'titre' => 'Publier son CV',
         'description' => 'Publier son CV en tant que freelance',
     ],
-    'publier_mission' => [
+    'publier_mission.php' => [
         'titre' => 'Publier sa mission',
         'description' => "Publier sa mission en tant qu'entreprise",
     ],
@@ -25,8 +25,7 @@ $implementedPages = [
 
 // get the url path
 $pathArr = explode('/', $_SERVER['REQUEST_URI']);
-array_shift($pathArr);
-$path = join('/', $pathArr);
+$path = end($pathArr);
 ?>
 
 <head>
