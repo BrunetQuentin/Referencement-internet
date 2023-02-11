@@ -1,0 +1,40 @@
+NOTES
+
+	https://docs.google.com/document/d/1I1GoqOBGo0FOanGxXN_mcEgrkeKT3fYNCimDGmF6yDI/edit
+
+	https://docs.google.com/spreadsheets/d/1N1Z8v1ZLrMXiCqOrARzchmEzhALcbQuUFoICGwKIx0A/edit?usp=sharing
+
+	Nom du site : AlpesFreelance
+
+	https://mobiskill.fr/entreprise/
+
+	Projet: https://brunet.alwaysdata.net/seo/
+
+TODO
+
+	intégrer le code JS pour Google Analytics : EN COURS
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-W2BZF6HKBQ"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-W2BZF6HKBQ');
+		</script>
+
+	Insérer des images : EN COURS
+
+	Faire le Sitemap : EN COURS
+
+		Référencer toute les images : EN COURS
+
+		Référencer toute les URL : EN COURS
+
+	Dans le fichier Excel
+
+		Rajouter les idées de Kwfinder dans l'onglet concurrence : EN COURS
+
+	Mettre tous vos fichiers dans un .zip : EN ATTENTE
+
+		Nommer le zip juste par votre numéro de binôme : EN ATTENTE
