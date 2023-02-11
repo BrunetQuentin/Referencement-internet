@@ -8,7 +8,7 @@ $redirect = "http://$host/confirm.php?redirect=mission";
 <?php include 'head.php'; ?>
 <body>
 	<?php include 'nav.php'; ?>
-	<main>
+	<main class="divide-2">
 		<div>
 			<h1>Publier toutes vos <strong>missions</strong> sur cette page</h1>
 

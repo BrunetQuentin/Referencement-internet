@@ -8,7 +8,7 @@ $redirect = "http://$host/confirm.php?redirect=cv";
 <?php include 'head.php'; ?>
 <body>
 	<?php include 'nav.php'; ?>
-	<main>
+	<main class="divide-2">
 		<div>
 			<h1>Publiez votre <strong>CV</strong></h1>
 			Sur cette page, en tant que <strong>développeur freelance</strong>, vous pourrez <strong>publier votre CV</strong> pour que notre système de pub puisse vous <strong>mettre en relation avec des entreprises</strong> pour de potentiels emplois dans différents projets informatiques.
