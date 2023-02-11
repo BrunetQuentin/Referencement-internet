@@ -20,3 +20,87 @@ body {
 main {
   padding: 1em;
 }
+
+.missions {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  align-content: center;
+}
+
+.mission {
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  padding: 1em;
+
+  display: flex;
+
+  width: 500px;
+  border-radius: 0.5em;
+  margin: 2em 1em;
+}
+
+.mission:hover {
+  background-color: #e5e5e5;
+  cursor: pointer;
+}
+
+.mission-detail {
+  width: 100%;
+}
+
+.mission-detail > h3 {
+  margin: 0;
+  margin-bottom: 0.5em;
+  border-bottom: 2px solid #c7c7c7;
+}
+
+.mission-detail > div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.mission > img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-right: 1em;
+}
+
+.freelances {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  align-content: center;
+}
+
+.freelance {
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  padding: 1em;
+
+  display: flex;
+
+  width: 300px;
+  height: 200px;
+  border-radius: 0.5em;
+  margin: 2em 1em;
+}
+
+.freelance > img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-right: 1em;
+}
+
+.freelance:hover {
+  background-color: #e5e5e5;
+  cursor: pointer;
+}
