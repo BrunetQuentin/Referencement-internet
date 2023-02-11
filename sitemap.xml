@@ -1,37 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~brunetqu/seo/mission</loc>
+    <loc>http://brunet.alwaysdata.net/mission.php</loc>
     <lastmod>2023-01-01</lastmod>
     <changefreq>never</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~brunetqu/seo/freelance</loc>
+    <loc>http://brunet.alwaysdata.net/freelance.php</loc>
     <lastmod>2023-01-01</lastmod>
     <changefreq>never</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~brunetqu/seo/publier_cv</loc>
+    <loc>http://brunet.alwaysdata.net/publier_cv.php</loc>
     <lastmod>2023-01-01</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~brunetqu/seo/publier_mission</loc>
+    <loc>http://brunet.alwaysdata.net/publier_mission.php</loc>
     <lastmod>2023-01-01</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~brunetqu/seo/</loc>
+    <loc>http://brunet.alwaysdata.net</loc>
     <lastmod>2023-01-01</lastmod>
     <changefreq>never</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://www-etu-info.iut2.upmf-grenoble.fr/~brunetqu/guide</loc>
+    <loc>http://brunet.alwaysdata.net/guide.php</loc>
     <lastmod>2023-01-01</lastmod>
     <changefreq>never</changefreq>
     <priority>0.4</priority>
