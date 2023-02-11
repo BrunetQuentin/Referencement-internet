@@ -1,6 +1,6 @@
 <?php
 $host = $_SERVER['HTTP_HOST'];
-$redirect = "http://$host/php/confirm.php?redirect=mission";
+$redirect = "http://$host/confirm.php?redirect=mission";
 ?>
 
 <?php include 'infodoc.php'; ?>
