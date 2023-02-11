@@ -11,8 +11,8 @@
                 Ce site fournit en effet gratuitement sont service, le site sert d'intermédiaire pour les transactions d'argent et les annonces pour freelance et entreprises. 
                 Vous pourrez également augmenter votre visibilité par des actions telles que :</p>
                 <ul>
-                    <li><a href="/publier_cv">Publier votre <abbr title="Curriculum vitæ">CV</abbr></a></li>
-                    <li><a href="/publier_mission">Publier votre mission</a></li>
+                    <li><a href="/publier_cv.php">Publier votre <abbr title="Curriculum vitæ">CV</abbr></a></li>
+                    <li><a href="/publier_mission.php">Publier votre mission</a></li>
                 </ul>
     
             <h2>Vous êtes un freelance:</h2>

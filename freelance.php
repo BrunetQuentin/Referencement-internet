@@ -21,7 +21,7 @@
 					<h3><Strong>Quentin Brunet</Strong></h3>
 					<p>Grenoble</p>
 					<p>BAC +3</p>
-					<p>je peux vous accompagner dans la réaliusation de vos projets</p>
+					<p>Je peux vous accompagner dans la réalisation de vos projets.</p>
 				</div>
 			</div>
 			<div class="freelance">
@@ -39,7 +39,7 @@
 					<h3><Strong>Quentin Brunet</Strong></h3>
 					<p>Grenoble</p>
 					<p>BAC +3</p>
-					<p>je peux vous accompagner dans la réaliusation de vos projets</p>
+					<p>Je peux vous accompagner dans la réalisation de vos projets.</p>
 				</div>
 			</div>
 			<div class="freelance">
@@ -57,7 +57,7 @@
 					<h3><Strong>Quentin Brunet</Strong></h3>
 					<p>Grenoble</p>
 					<p>BAC +3</p>
-					<p>je peux vous accompagner dans la réaliusation de vos projets</p>
+					<p>Je peux vous accompagner dans la réalisation de vos projets.</p>
 				</div>
 			</div>
 			<div class="freelance">
@@ -75,7 +75,7 @@
 					<h3><Strong>Quentin Brunet</Strong></h3>
 					<p>Grenoble</p>
 					<p>BAC +3</p>
-					<p>je peux vous accompagner dans la réaliusation de vos projets</p>
+					<p>Je peux vous accompagner dans la réalisation de vos projets.</p>
 				</div>
 			</div>
 			<div class="freelance">
@@ -93,7 +93,7 @@
 					<h3><Strong>Quentin Brunet</Strong></h3>
 					<p>Grenoble</p>
 					<p>BAC +3</p>
-					<p>je peux vous accompagner dans la réaliusation de vos projets</p>
+					<p>Je peux vous accompagner dans la réalisation de vos projets.</p>
 				</div>
 			</div>
 			<div class="freelance">
