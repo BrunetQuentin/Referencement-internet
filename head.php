@@ -34,6 +34,15 @@ $path = end($pathArr);
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/header.css">
     <link rel="stylesheet" href="./css/global.css">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YQ7BCKH454"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-YQ7BCKH454');
+    </script>
+    <!---->
 	<meta name="description" content=<?= $implementedPages[$path]['description'] ??
      'Aucune description' ?>>
      <base href="http://brunet.alwaysdata.net/"/>

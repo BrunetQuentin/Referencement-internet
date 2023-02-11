@@ -12,17 +12,6 @@ NOTES
 
 TODO
 
-	intégrer le code JS pour Google Analytics : EN COURS
-
-		<!-- Google tag (gtag.js) -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-W2BZF6HKBQ"></script>
-		<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-		gtag('config', 'G-W2BZF6HKBQ');
-		</script>
-
 	Insérer des images : EN COURS
 
 	Faire le Sitemap : EN COURS
@@ -30,10 +19,6 @@ TODO
 		Référencer toute les images : EN COURS
 
 		Référencer toute les URL : EN COURS
-
-	Dans le fichier Excel
-
-		Rajouter les idées de Kwfinder dans l'onglet concurrence : EN COURS
 
 	Mettre tous vos fichiers dans un .zip : EN ATTENTE
 
