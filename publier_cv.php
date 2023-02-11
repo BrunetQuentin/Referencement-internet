@@ -1,6 +1,6 @@
 <?php
 $host = $_SERVER['HTTP_HOST'];
-$redirect = "http://$host/php/confirm.php?redirect=cv";
+$redirect = "http://$host/confirm.php?redirect=cv";
 ?>
 
 <?php include 'infodoc.php'; ?>
