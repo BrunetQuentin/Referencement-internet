@@ -36,6 +36,6 @@ $path = end($pathArr);
     <link rel="stylesheet" href="./css/global.css">
 	<meta name="description" content=<?= $implementedPages[$path]['description'] ??
      'Aucune description' ?>>
-     <base href="http://www-etu-info.iut2.upmf-grenoble.fr/~brunetqu/seo/"/>
+     <base href="http://brunet.alwaysdata.net/"/>
     <title><?= $implementedPages[$path]['titre'] ?? "Page d'erreur" ?></title>
 </head>
