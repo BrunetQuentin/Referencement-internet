@@ -10,8 +10,8 @@ $redirect = "http://$host/confirm.php?redirect=cv";
 	<?php include 'nav.php'; ?>
 	<main class="divide-2">
 		<div>
-			<h1>Publiez votre <strong>CV</strong></h1>
-			Sur cette page, en tant que <strong>développeur freelance</strong>, vous pourrez <strong>publier votre CV</strong> pour que notre système de pub puisse vous <strong>mettre en relation avec des entreprises</strong> pour de potentiels emplois dans différents projets informatiques.
+			<h1>Publiez votre <strong><abbr title="Curriculum vitæ">CV</abbr></strong></h1>
+			Sur cette page, en tant que <strong>développeur freelance</strong>, vous pourrez <strong>publier votre <abbr title="Curriculum vitæ">CV</abbr></strong> pour que notre système de pub puisse vous <strong>mettre en relation avec des entreprises</strong> pour de potentiels emplois dans différents projets informatiques.
 
 			<p>Exemple de languages :<p>
 			<ul>
@@ -24,12 +24,12 @@ $redirect = "http://$host/confirm.php?redirect=cv";
 				<li>C++</li>
 				<li>JavaScript</li>
 				<li>Python</li>
-				<li>CSS</li>
+				<li><abbr title="Cascading Style Sheets">CSS</abbr></li>
 				<li>Html</li>
 				<li>Vue</li>
 				<li>Ruby</li>
-				<li>SQL</li>
-				<li>PHP</li>
+				<li><abbr title="Structured Query Language">SQL</abbr></li>
+				<li><abbr title="PHP Hypertext Preprocessor">PHP</abbr></li>
 				<li>MongoDb</li>
 				<li>Django</li>
 				<li>Oracle</li>
@@ -61,7 +61,7 @@ $redirect = "http://$host/confirm.php?redirect=cv";
 				<li>Senior</li>
 			</ul>
 
-			<h1>CV Freelance</h1>
+			<h1><abbr title="Curriculum vitæ">CV</abbr> Freelance</h1>
 			<form action="" method="get">
 				<div>
 					<label for="nom">Entrez votre nom: </label>

@@ -4,7 +4,7 @@
 <body>
 	<?php include 'nav.php' ?>
 	<main>
-		<h1>CV pour <strong>Entreprises</strong></h1>
+		<h1><abbr title="Curriculum vitæ">CV</abbr> pour <strong>Entreprises</strong></h1>
 
 		<p>Sur cette page, en tant que freelance vous pourrez publier votre expérience, ce site étant spécialiste en intermédiaire freelance, vous pourrez publier votre profil pour être recruté par plein d'entreprises.</p>
 
