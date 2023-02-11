@@ -17,12 +17,18 @@
     <lastmod>2023-01-01</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://brunet.alwaysdata.net/images/cv.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://brunet.alwaysdata.net/publier_mission.php</loc>
     <lastmod>2023-01-01</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://brunet.alwaysdata.net/images/mission.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://brunet.alwaysdata.net</loc>
@@ -35,5 +41,17 @@
     <lastmod>2023-01-01</lastmod>
     <changefreq>never</changefreq>
     <priority>0.4</priority>
+    <image:image>
+      <image:loc>http://brunet.alwaysdata.net/images/guide.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://brunet.alwaysdata.net/error.php</loc>
+    <lastmod>2023-01-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0</priority>
+    <image:image>
+      <image:loc>http://brunet.alwaysdata.net/images/erreur.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>

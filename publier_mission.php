@@ -21,7 +21,7 @@ $redirect = "http://$host/confirm.php?redirect=mission";
 			<ol>
 				<li>Améliorer vos projets</li>
 				<li>Réaliser une application Mobile, Android ou iPhone</li>
-				<li>Réaliser une application PC, Windows, Apple ou Linux</li>
+				<li>Réaliser une application <abbr title="Personal Computer">PC</abbr>, Windows, Apple ou Linux</li>
 				<li>Connaissances en développement Agile ou Semi-agile</li>
 			</ol>
 

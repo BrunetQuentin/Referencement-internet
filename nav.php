@@ -23,7 +23,7 @@
 			</li>
 			<li>
 				<a href="publier_cv.php" class="hover no-text-decoration">
-					<span><strong>Publier son CV</strong></span>
+					<span><strong>Publier son <abbr title="Curriculum vitæ">CV</abbr></strong></span>
 					<br />
 					<span></span>
 				</a>

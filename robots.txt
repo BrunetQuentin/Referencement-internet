@@ -2,3 +2,4 @@ User-agent: *
 Disallow: /header.html
 Disallow: /index.php
 Disallow: /css/
+Sitemap: http://brunet.alwaysdata.net/sitemap.xml
